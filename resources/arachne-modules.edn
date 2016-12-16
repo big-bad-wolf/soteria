@@ -1,0 +1,4 @@
+[{:arachne.module/name :bigbadwolf/soteria
+  :arachne.module/schema soteria.core/schema
+  :arachne.module/configure arachne.hello/configure
+  :arachne.module/dependecies [:org.arachne-framework/arachne-core]}]
